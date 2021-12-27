@@ -1,0 +1,24 @@
+*{
+    font-family: Times, sans-serif;
+}
+
+h1{
+    color: purple;
+}
+
+h2{
+    color: mediumpurple;
+}
+
+li a{
+    color: blue;
+}
+
+a{
+    color: blue;
+}
+
+img{
+    width: 400px;
+    height: auto;
+}
